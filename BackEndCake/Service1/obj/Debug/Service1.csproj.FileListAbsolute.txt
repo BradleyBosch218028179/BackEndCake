@@ -5,3 +5,10 @@ D:\Brad\UJ\Year 2\Sem 2\Infos\Group Project\Project\BackEndCake\BackEndCake\Serv
 D:\Brad\UJ\Year 2\Sem 2\Infos\Group Project\Project\BackEndCake\BackEndCake\Service1\obj\Debug\Service1.csproj.CoreCompileInputs.cache
 D:\Brad\UJ\Year 2\Sem 2\Infos\Group Project\Project\BackEndCake\BackEndCake\Service1\obj\Debug\Service1.dll
 D:\Brad\UJ\Year 2\Sem 2\Infos\Group Project\Project\BackEndCake\BackEndCake\Service1\obj\Debug\Service1.pdb
+D:\University\Inf vb\2B\Group Project\CloneRepo\BackEndCake\BackEndCake\Service1\bin\Service1.dll.config
+D:\University\Inf vb\2B\Group Project\CloneRepo\BackEndCake\BackEndCake\Service1\bin\Service1.dll
+D:\University\Inf vb\2B\Group Project\CloneRepo\BackEndCake\BackEndCake\Service1\bin\Service1.pdb
+D:\University\Inf vb\2B\Group Project\CloneRepo\BackEndCake\BackEndCake\Service1\obj\Debug\Service1.csprojAssemblyReference.cache
+D:\University\Inf vb\2B\Group Project\CloneRepo\BackEndCake\BackEndCake\Service1\obj\Debug\Service1.csproj.CoreCompileInputs.cache
+D:\University\Inf vb\2B\Group Project\CloneRepo\BackEndCake\BackEndCake\Service1\obj\Debug\Service1.dll
+D:\University\Inf vb\2B\Group Project\CloneRepo\BackEndCake\BackEndCake\Service1\obj\Debug\Service1.pdb
