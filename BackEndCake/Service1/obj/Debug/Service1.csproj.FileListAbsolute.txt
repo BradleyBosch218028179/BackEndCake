@@ -1,0 +1,7 @@
+D:\Brad\UJ\Year 2\Sem 2\Infos\Group Project\Project\BackEndCake\BackEndCake\Service1\bin\Service1.dll.config
+D:\Brad\UJ\Year 2\Sem 2\Infos\Group Project\Project\BackEndCake\BackEndCake\Service1\bin\Service1.dll
+D:\Brad\UJ\Year 2\Sem 2\Infos\Group Project\Project\BackEndCake\BackEndCake\Service1\bin\Service1.pdb
+D:\Brad\UJ\Year 2\Sem 2\Infos\Group Project\Project\BackEndCake\BackEndCake\Service1\obj\Debug\Service1.csprojAssemblyReference.cache
+D:\Brad\UJ\Year 2\Sem 2\Infos\Group Project\Project\BackEndCake\BackEndCake\Service1\obj\Debug\Service1.csproj.CoreCompileInputs.cache
+D:\Brad\UJ\Year 2\Sem 2\Infos\Group Project\Project\BackEndCake\BackEndCake\Service1\obj\Debug\Service1.dll
+D:\Brad\UJ\Year 2\Sem 2\Infos\Group Project\Project\BackEndCake\BackEndCake\Service1\obj\Debug\Service1.pdb
