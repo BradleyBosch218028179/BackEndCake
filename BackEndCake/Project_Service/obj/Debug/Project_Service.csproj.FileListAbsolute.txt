@@ -1,0 +1,21 @@
+C:\Users\User\Documents\GitHub\TheCakeIsALie\TheCakeIsALie\Project_Service\Project_Service\bin\Project_Service.dll.config
+C:\Users\User\Documents\GitHub\TheCakeIsALie\TheCakeIsALie\Project_Service\Project_Service\bin\Project_Service.dll
+C:\Users\User\Documents\GitHub\TheCakeIsALie\TheCakeIsALie\Project_Service\Project_Service\bin\Project_Service.pdb
+C:\Users\User\Documents\GitHub\TheCakeIsALie\TheCakeIsALie\Project_Service\Project_Service\obj\Debug\Project_Service.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\TheCakeIsALie\TheCakeIsALie\Project_Service\Project_Service\obj\Debug\Project_Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\TheCakeIsALie\TheCakeIsALie\Project_Service\Project_Service\obj\Debug\Project_Service.dll
+C:\Users\User\Documents\GitHub\TheCakeIsALie\TheCakeIsALie\Project_Service\Project_Service\obj\Debug\Project_Service.pdb
+C:\Users\kwdav\Desktop\TheCakeIsALie\TheCakeIsALie\Project_Service\Project_Service\bin\Project_Service.dll.config
+C:\Users\kwdav\Desktop\TheCakeIsALie\TheCakeIsALie\Project_Service\Project_Service\bin\Project_Service.dll
+C:\Users\kwdav\Desktop\TheCakeIsALie\TheCakeIsALie\Project_Service\Project_Service\bin\Project_Service.pdb
+C:\Users\kwdav\Desktop\TheCakeIsALie\TheCakeIsALie\Project_Service\Project_Service\obj\Debug\Project_Service.csproj.CoreCompileInputs.cache
+C:\Users\kwdav\Desktop\TheCakeIsALie\TheCakeIsALie\Project_Service\Project_Service\obj\Debug\Project_Service.dll
+C:\Users\kwdav\Desktop\TheCakeIsALie\TheCakeIsALie\Project_Service\Project_Service\obj\Debug\Project_Service.pdb
+C:\Users\kwdav\Desktop\TheCakeIsALie\TheCakeIsALie\Project_Service\Project_Service\obj\Debug\Project_Service.csprojAssemblyReference.cache
+D:\Brad\UJ\Year 2\Sem 2\Infos\Group Project\Project\BackEndCake\BackEndCake\Project_Service\bin\Project_Service.dll.config
+D:\Brad\UJ\Year 2\Sem 2\Infos\Group Project\Project\BackEndCake\BackEndCake\Project_Service\bin\Project_Service.dll
+D:\Brad\UJ\Year 2\Sem 2\Infos\Group Project\Project\BackEndCake\BackEndCake\Project_Service\bin\Project_Service.pdb
+D:\Brad\UJ\Year 2\Sem 2\Infos\Group Project\Project\BackEndCake\BackEndCake\Project_Service\obj\Debug\Project_Service.csprojAssemblyReference.cache
+D:\Brad\UJ\Year 2\Sem 2\Infos\Group Project\Project\BackEndCake\BackEndCake\Project_Service\obj\Debug\Project_Service.csproj.CoreCompileInputs.cache
+D:\Brad\UJ\Year 2\Sem 2\Infos\Group Project\Project\BackEndCake\BackEndCake\Project_Service\obj\Debug\Project_Service.dll
+D:\Brad\UJ\Year 2\Sem 2\Infos\Group Project\Project\BackEndCake\BackEndCake\Project_Service\obj\Debug\Project_Service.pdb
